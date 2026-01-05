@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\audio_app\\code\\Backends\\Main.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72372E53-DA1D-4CBB-8AEB-56F644CB186D}|Main.Infrastructure\\Main.Infrastructure.csproj|d:\\audio_app\\code\\backends\\main.api\\main.infrastructure\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72372E53-DA1D-4CBB-8AEB-56F644CB186D}|Main.Infrastructure\\Main.Infrastructure.csproj|solutionrelative:main.infrastructure\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|d:\\audio_app\\code\\backends\\main.api\\main.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|solutionrelative:main.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|d:\\audio_app\\code\\backends\\main.api\\main.api\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|solutionrelative:main.api\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|d:\\audio_app\\code\\backends\\main.api\\main.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|solutionrelative:main.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Main.Api\\Program.cs",
+              "ToolTip": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Api\\Program.cs",
+              "RelativeToolTip": "Main.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T02:30:00.918Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Api\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "Main.Api\\ConfigureServices.cs",
+              "ToolTip": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Api\\ConfigureServices.cs",
+              "RelativeToolTip": "Main.Api\\ConfigureServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T02:20:26.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Infrastructure\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "Main.Infrastructure\\ConfigureServices.cs",
+              "ToolTip": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Infrastructure\\ConfigureServices.cs",
+              "RelativeToolTip": "Main.Infrastructure\\ConfigureServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:35:36.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Main.Api\\appsettings.json",
+              "ToolTip": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Api\\appsettings.json",
+              "RelativeToolTip": "Main.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-17T06:26:45.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

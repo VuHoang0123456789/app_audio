@@ -1,0 +1,5 @@
+D:\audio_app\code\Backends\Main.Api\Main.Application\obj\Debug\net8.0\Main.Application.csproj.AssemblyReference.cache
+D:\audio_app\code\Backends\Main.Api\Main.Application\obj\Debug\net8.0\Main.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\audio_app\code\Backends\Main.Api\Main.Application\obj\Debug\net8.0\Main.Application.AssemblyInfoInputs.cache
+D:\audio_app\code\Backends\Main.Api\Main.Application\obj\Debug\net8.0\Main.Application.AssemblyInfo.cs
+D:\audio_app\code\Backends\Main.Api\Main.Application\obj\Debug\net8.0\Main.Application.csproj.CoreCompileInputs.cache

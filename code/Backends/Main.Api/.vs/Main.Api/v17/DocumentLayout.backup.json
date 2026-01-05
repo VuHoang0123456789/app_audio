@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\audio_app\\code\\Backends\\Main.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A890BF9-1558-4EBD-81E7-32959511FF92}|Main.Application\\Main.Application.csproj|d:\\audio_app\\code\\backends\\main.api\\main.application\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A890BF9-1558-4EBD-81E7-32959511FF92}|Main.Application\\Main.Application.csproj|solutionrelative:main.application\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|d:\\audio_app\\code\\backends\\main.api\\main.api\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|solutionrelative:main.api\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72372E53-DA1D-4CBB-8AEB-56F644CB186D}|Main.Infrastructure\\Main.Infrastructure.csproj|d:\\audio_app\\code\\backends\\main.api\\main.infrastructure\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72372E53-DA1D-4CBB-8AEB-56F644CB186D}|Main.Infrastructure\\Main.Infrastructure.csproj|solutionrelative:main.infrastructure\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|d:\\audio_app\\code\\backends\\main.api\\main.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|solutionrelative:main.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|d:\\audio_app\\code\\backends\\main.api\\main.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|solutionrelative:main.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72372E53-DA1D-4CBB-8AEB-56F644CB186D}|Main.Infrastructure\\Main.Infrastructure.csproj|d:\\audio_app\\code\\backends\\main.api\\main.infrastructure\\data\\maindbcontextinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72372E53-DA1D-4CBB-8AEB-56F644CB186D}|Main.Infrastructure\\Main.Infrastructure.csproj|solutionrelative:main.infrastructure\\data\\maindbcontextinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72372E53-DA1D-4CBB-8AEB-56F644CB186D}|Main.Infrastructure\\Main.Infrastructure.csproj|d:\\audio_app\\code\\backends\\main.api\\main.infrastructure\\data\\maindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72372E53-DA1D-4CBB-8AEB-56F644CB186D}|Main.Infrastructure\\Main.Infrastructure.csproj|solutionrelative:main.infrastructure\\data\\maindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|d:\\audio_app\\code\\backends\\main.api\\main.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|solutionrelative:main.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Main.Api\\Program.cs",
+              "ToolTip": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Api\\Program.cs",
+              "RelativeToolTip": "Main.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T02:30:00.918Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Application\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "Main.Application\\ConfigureServices.cs",
+              "ToolTip": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Application\\ConfigureServices.cs*",
+              "RelativeToolTip": "Main.Application\\ConfigureServices.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T02:28:54.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Api\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "Main.Api\\ConfigureServices.cs",
+              "ToolTip": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Api\\ConfigureServices.cs",
+              "RelativeToolTip": "Main.Api\\ConfigureServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T02:20:26.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Main.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Main.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-17T10:16:57.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Infrastructure\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "Main.Infrastructure\\ConfigureServices.cs",
+              "ToolTip": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Infrastructure\\ConfigureServices.cs",
+              "RelativeToolTip": "Main.Infrastructure\\ConfigureServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:35:36.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainDbContextInitial.cs",
+              "DocumentMoniker": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Infrastructure\\Data\\MainDbContextInitial.cs",
+              "RelativeDocumentMoniker": "Main.Infrastructure\\Data\\MainDbContextInitial.cs",
+              "ToolTip": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Infrastructure\\Data\\MainDbContextInitial.cs",
+              "RelativeToolTip": "Main.Infrastructure\\Data\\MainDbContextInitial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:35:30.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainDbContext.cs",
+              "DocumentMoniker": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Infrastructure\\Data\\MainDbContext.cs",
+              "RelativeDocumentMoniker": "Main.Infrastructure\\Data\\MainDbContext.cs",
+              "ToolTip": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Infrastructure\\Data\\MainDbContext.cs",
+              "RelativeToolTip": "Main.Infrastructure\\Data\\MainDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:46:31.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Main.Api\\appsettings.json",
+              "ToolTip": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Api\\appsettings.json",
+              "RelativeToolTip": "Main.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-17T06:26:45.72Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
