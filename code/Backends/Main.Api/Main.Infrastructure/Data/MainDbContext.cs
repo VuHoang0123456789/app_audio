@@ -1,4 +1,5 @@
 ﻿using Main.Application.Interfaces;
+using Main.Domian.Entities;
 using Microsoft.EntityFrameworkCore;
 using SharedKernel.Infrastructure;
 using System.Reflection;
@@ -11,6 +12,8 @@ public class MainDbContext : BaseDbContext<MainDbContext>, IMainDbContext
         base(options, auditableEntitySaveChangesInterceptor)
     {
     }
+
+    public DbSet<test_table> test_table { get; set; }
 
     protected override void OnModelCreating(ModelBuilder builder)
     {

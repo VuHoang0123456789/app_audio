@@ -15,10 +15,6 @@ try
     services.AddMainServices(builder.Configuration);
     #endregion
 
-    //// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-    //builder.Services.AddEndpointsApiExplorer();
-    //builder.Services.AddSwaggerGen();
-
     //clear logging providers default
     builder.Logging.ClearProviders();
 

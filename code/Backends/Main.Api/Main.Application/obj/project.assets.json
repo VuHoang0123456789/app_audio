@@ -2084,6 +2084,19 @@
             "rid": "win"
           }
         }
+      },
+      "Main.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "EPS.SharedKernel.Application": "2.0.5"
+        },
+        "compile": {
+          "bin/placeholder/Main.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Main.Domain.dll": {}
+        }
       }
     }
   },
@@ -4948,11 +4961,17 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Main.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Main.Domian/Main.Domain.csproj",
+      "msbuildProject": "../Main.Domian/Main.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "EPS.SharedKernel.Application >= 2.0.5"
+      "EPS.SharedKernel.Application >= 2.0.5",
+      "Main.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4962,11 +4981,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Application\\Main.Application.csproj",
+      "projectUniqueName": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Application\\Main.Application.csproj",
       "projectName": "Main.Application",
-      "projectPath": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Application\\Main.Application.csproj",
+      "projectPath": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Application\\Main.Application.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Application\\obj\\",
+      "outputPath": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4986,7 +5005,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Domian\\Main.Domain.csproj": {
+              "projectPath": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Domian\\Main.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

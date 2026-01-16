@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Main.Api", "Main.Api\Main.Api.csproj", "{344630D6-BB6B-4FB0-A2C6-932E06AE8672}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Main.Domian", "Main.Domian\Main.Domian.csproj", "{05B83798-C92D-4A31-9FD7-E666391ED082}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Main.Domain", "Main.Domian\Main.Domain.csproj", "{05B83798-C92D-4A31-9FD7-E666391ED082}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Main.Application", "Main.Application\Main.Application.csproj", "{1A890BF9-1558-4EBD-81E7-32959511FF92}"
 EndProject

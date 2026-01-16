@@ -10,7 +10,4 @@
     <PackageReference Include="EPS.SharedKernel.Application" Version="2.0.5" />
   </ItemGroup>
 
-	<ItemGroup>
-		<ProjectReference Include="..\Main.Domian\Main.Domain.csproj" />
-	</ItemGroup>
 </Project>

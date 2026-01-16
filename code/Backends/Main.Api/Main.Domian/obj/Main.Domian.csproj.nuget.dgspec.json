@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Domian\\Main.Domian.csproj": {}
+    "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Domian\\Main.Domian.csproj": {}
   },
   "projects": {
-    "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Domian\\Main.Domian.csproj": {
+    "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Domian\\Main.Domian.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Domian\\Main.Domian.csproj",
+        "projectUniqueName": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Domian\\Main.Domian.csproj",
         "projectName": "Main.Domian",
-        "projectPath": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Domian\\Main.Domian.csproj",
+        "projectPath": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Domian\\Main.Domian.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Domian\\obj\\",
+        "outputPath": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Domian\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "EPS.SharedKernel.Application": {
+              "target": "Package",
+              "version": "[2.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

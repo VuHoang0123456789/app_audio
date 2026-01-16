@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bJE1NcfzuIw=",
+  "dgSpecHash": "/1CfHO27FL8=",
   "success": true,
-  "projectFilePath": "D:\\audio_app\\code\\Backends\\Main.Api\\Main.Application\\Main.Application.csproj",
+  "projectFilePath": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Application\\Main.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\automapper.data\\6.0.0\\automapper.data.6.0.0.nupkg.sha512",

@@ -1,5 +1,110 @@
 [
   {
+    "ContainingType": "SharedKernel.Api.BaseCrudApiController\u00605[[Main.Application.TestTable.Queries.TestGetAllQuery, Main.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Main.Application.TestTable.Queries.TestGetByIdQuery, Main.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Main.Application.TestTable.Commands.TestCreateCommand, Main.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Main.Application.TestTable.Commands.TestUpdateCommand, Main.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Main.Application.TestTable.Commands.TestDeleteCommand, Main.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAll",
+    "RelativePath": "api/test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "page_size",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "sort",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "filter",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "search",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SharedKernel.Api.BaseCrudApiController\u00605[[Main.Application.TestTable.Queries.TestGetAllQuery, Main.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Main.Application.TestTable.Queries.TestGetByIdQuery, Main.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Main.Application.TestTable.Commands.TestCreateCommand, Main.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Main.Application.TestTable.Commands.TestUpdateCommand, Main.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Main.Application.TestTable.Commands.TestDeleteCommand, Main.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/test",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "Main.Application.TestTable.DTO.TestTableDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SharedKernel.Api.BaseCrudApiController\u00605[[Main.Application.TestTable.Queries.TestGetAllQuery, Main.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Main.Application.TestTable.Queries.TestGetByIdQuery, Main.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Main.Application.TestTable.Commands.TestCreateCommand, Main.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Main.Application.TestTable.Commands.TestUpdateCommand, Main.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Main.Application.TestTable.Commands.TestDeleteCommand, Main.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "api/test/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SharedKernel.Api.BaseCrudApiController\u00605[[Main.Application.TestTable.Queries.TestGetAllQuery, Main.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Main.Application.TestTable.Queries.TestGetByIdQuery, Main.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Main.Application.TestTable.Commands.TestCreateCommand, Main.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Main.Application.TestTable.Commands.TestUpdateCommand, Main.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Main.Application.TestTable.Commands.TestDeleteCommand, Main.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "api/test/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "data",
+        "Type": "Main.Application.TestTable.DTO.TestTableDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SharedKernel.Api.BaseCrudApiController\u00605[[Main.Application.TestTable.Queries.TestGetAllQuery, Main.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Main.Application.TestTable.Queries.TestGetByIdQuery, Main.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Main.Application.TestTable.Commands.TestCreateCommand, Main.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Main.Application.TestTable.Commands.TestUpdateCommand, Main.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Main.Application.TestTable.Commands.TestDeleteCommand, Main.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/test/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Main.Api.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
