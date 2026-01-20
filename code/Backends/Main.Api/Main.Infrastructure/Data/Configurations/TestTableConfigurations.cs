@@ -8,6 +8,8 @@ internal class TestTableConfigurations : IEntityTypeConfiguration<test_table>
 {
     public void Configure(EntityTypeBuilder<test_table> builder)
     {
+        builder.ToTable("test_table", "main");
+
         builder.Property(p => p.ma)
             .HasMaxLength(32)
             .IsRequired();

@@ -3,8 +3,48 @@
   "WorkspaceRootPath": "D:\\app_audio\\code\\Backends\\Main.Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|d:\\app_audio\\code\\backends\\main.api\\main.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|solutionrelative:main.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|d:\\app_audio\\code\\backends\\main.api\\main.api\\main.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|solutionrelative:main.api\\main.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|d:\\app_audio\\code\\backends\\main.api\\main.api\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|solutionrelative:main.api\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72372E53-DA1D-4CBB-8AEB-56F644CB186D}|Main.Infrastructure\\Main.Infrastructure.csproj|d:\\app_audio\\code\\backends\\main.api\\main.infrastructure\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72372E53-DA1D-4CBB-8AEB-56F644CB186D}|Main.Infrastructure\\Main.Infrastructure.csproj|solutionrelative:main.infrastructure\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A890BF9-1558-4EBD-81E7-32959511FF92}|Main.Application\\Main.Application.csproj|d:\\app_audio\\code\\backends\\main.api\\main.application\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A890BF9-1558-4EBD-81E7-32959511FF92}|Main.Application\\Main.Application.csproj|solutionrelative:main.application\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A890BF9-1558-4EBD-81E7-32959511FF92}|Main.Application\\Main.Application.csproj|d:\\app_audio\\code\\backends\\main.api\\main.application\\interfaces\\imaindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A890BF9-1558-4EBD-81E7-32959511FF92}|Main.Application\\Main.Application.csproj|solutionrelative:main.application\\interfaces\\imaindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B83798-C92D-4A31-9FD7-E666391ED082}|Main.Domian\\Main.Domain.csproj|d:\\app_audio\\code\\backends\\main.api\\main.domian\\main.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05B83798-C92D-4A31-9FD7-E666391ED082}|Main.Domian\\Main.Domain.csproj|solutionrelative:main.domian\\main.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72372E53-DA1D-4CBB-8AEB-56F644CB186D}|Main.Infrastructure\\Main.Infrastructure.csproj|d:\\app_audio\\code\\backends\\main.api\\main.infrastructure\\data\\maindbcontextinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72372E53-DA1D-4CBB-8AEB-56F644CB186D}|Main.Infrastructure\\Main.Infrastructure.csproj|solutionrelative:main.infrastructure\\data\\maindbcontextinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72372E53-DA1D-4CBB-8AEB-56F644CB186D}|Main.Infrastructure\\Main.Infrastructure.csproj|d:\\app_audio\\code\\backends\\main.api\\main.infrastructure\\data\\maindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72372E53-DA1D-4CBB-8AEB-56F644CB186D}|Main.Infrastructure\\Main.Infrastructure.csproj|solutionrelative:main.infrastructure\\data\\maindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1A890BF9-1558-4EBD-81E7-32959511FF92}|Main.Application\\Main.Application.csproj|d:\\app_audio\\code\\backends\\main.api\\main.application\\testtable\\commands\\testcreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A890BF9-1558-4EBD-81E7-32959511FF92}|Main.Application\\Main.Application.csproj|solutionrelative:main.application\\testtable\\commands\\testcreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|d:\\app_audio\\code\\backends\\main.api\\main.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|solutionrelative:main.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A890BF9-1558-4EBD-81E7-32959511FF92}|Main.Application\\Main.Application.csproj|d:\\app_audio\\code\\backends\\main.api\\main.application\\testtable\\commands\\testdeletecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,26 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|d:\\app_audio\\code\\backends\\main.api\\main.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|solutionrelative:main.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A890BF9-1558-4EBD-81E7-32959511FF92}|Main.Application\\Main.Application.csproj|d:\\app_audio\\code\\backends\\main.api\\main.application\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A890BF9-1558-4EBD-81E7-32959511FF92}|Main.Application\\Main.Application.csproj|solutionrelative:main.application\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72372E53-DA1D-4CBB-8AEB-56F644CB186D}|Main.Infrastructure\\Main.Infrastructure.csproj|d:\\app_audio\\code\\backends\\main.api\\main.infrastructure\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72372E53-DA1D-4CBB-8AEB-56F644CB186D}|Main.Infrastructure\\Main.Infrastructure.csproj|solutionrelative:main.infrastructure\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|d:\\app_audio\\code\\backends\\main.api\\main.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|solutionrelative:main.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|d:\\app_audio\\code\\backends\\main.api\\main.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|solutionrelative:main.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|d:\\app_audio\\code\\backends\\main.api\\main.api\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|solutionrelative:main.api\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,46 +62,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Api\\Program.cs",
               "RelativeDocumentMoniker": "Main.Api\\Program.cs",
               "ToolTip": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Api\\Program.cs",
               "RelativeToolTip": "Main.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-14T02:30:00.918Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TestCreateCommand.cs",
-              "DocumentMoniker": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Application\\TestTable\\Commands\\TestCreateCommand.cs",
-              "RelativeDocumentMoniker": "Main.Application\\TestTable\\Commands\\TestCreateCommand.cs",
-              "ToolTip": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Application\\TestTable\\Commands\\TestCreateCommand.cs",
-              "RelativeToolTip": "Main.Application\\TestTable\\Commands\\TestCreateCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T10:14:48.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TestDeleteCommand.cs",
-              "DocumentMoniker": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Application\\TestTable\\Commands\\TestDeleteCommand.cs",
-              "RelativeDocumentMoniker": "Main.Application\\TestTable\\Commands\\TestDeleteCommand.cs",
-              "ToolTip": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Application\\TestTable\\Commands\\TestDeleteCommand.cs",
-              "RelativeToolTip": "Main.Application\\TestTable\\Commands\\TestDeleteCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T10:11:20.428Z",
               "EditorCaption": ""
             },
             {
@@ -90,59 +84,129 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TestController.cs",
-              "DocumentMoniker": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Api\\Controllers\\TestController.cs",
-              "RelativeDocumentMoniker": "Main.Api\\Controllers\\TestController.cs",
-              "ToolTip": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Api\\Controllers\\TestController.cs",
-              "RelativeToolTip": "Main.Api\\Controllers\\TestController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T08:41:34.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ConfigureServices.cs",
-              "DocumentMoniker": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Application\\ConfigureServices.cs",
-              "RelativeDocumentMoniker": "Main.Application\\ConfigureServices.cs",
-              "ToolTip": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Application\\ConfigureServices.cs",
-              "RelativeToolTip": "Main.Application\\ConfigureServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T01:45:25.538Z",
+              "DocumentIndex": 1,
+              "Title": "Main.Api",
+              "DocumentMoniker": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Api\\Main.Api.csproj",
+              "RelativeDocumentMoniker": "Main.Api\\Main.Api.csproj",
+              "ToolTip": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Api\\Main.Api.csproj",
+              "RelativeToolTip": "Main.Api\\Main.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-20T04:07:37.103Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ConfigureServices.cs",
-              "DocumentMoniker": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Api\\ConfigureServices.cs",
-              "RelativeDocumentMoniker": "Main.Api\\ConfigureServices.cs",
-              "ToolTip": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Api\\ConfigureServices.cs",
-              "RelativeToolTip": "Main.Api\\ConfigureServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Title": "MainDbContextInitial.cs",
+              "DocumentMoniker": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Infrastructure\\Data\\MainDbContextInitial.cs",
+              "RelativeDocumentMoniker": "Main.Infrastructure\\Data\\MainDbContextInitial.cs",
+              "ToolTip": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Infrastructure\\Data\\MainDbContextInitial.cs",
+              "RelativeToolTip": "Main.Infrastructure\\Data\\MainDbContextInitial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T02:20:26.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T07:59:36.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMainDbContext.cs",
+              "DocumentMoniker": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Application\\Interfaces\\IMainDbContext.cs",
+              "RelativeDocumentMoniker": "Main.Application\\Interfaces\\IMainDbContext.cs",
+              "ToolTip": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Application\\Interfaces\\IMainDbContext.cs",
+              "RelativeToolTip": "Main.Application\\Interfaces\\IMainDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:32:38.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainDbContext.cs",
+              "DocumentMoniker": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Infrastructure\\Data\\MainDbContext.cs",
+              "RelativeDocumentMoniker": "Main.Infrastructure\\Data\\MainDbContext.cs",
+              "ToolTip": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Infrastructure\\Data\\MainDbContext.cs",
+              "RelativeToolTip": "Main.Infrastructure\\Data\\MainDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T06:47:17.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestCreateCommand.cs",
+              "DocumentMoniker": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Application\\TestTable\\Commands\\TestCreateCommand.cs",
+              "RelativeDocumentMoniker": "Main.Application\\TestTable\\Commands\\TestCreateCommand.cs",
+              "ToolTip": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Application\\TestTable\\Commands\\TestCreateCommand.cs",
+              "RelativeToolTip": "Main.Application\\TestTable\\Commands\\TestCreateCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T10:14:48.453Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Application\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "Main.Application\\ConfigureServices.cs",
+              "ToolTip": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Application\\ConfigureServices.cs",
+              "RelativeToolTip": "Main.Application\\ConfigureServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T01:45:25.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfigureServices.cs",
               "DocumentMoniker": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Infrastructure\\ConfigureServices.cs",
               "RelativeDocumentMoniker": "Main.Infrastructure\\ConfigureServices.cs",
               "ToolTip": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Infrastructure\\ConfigureServices.cs",
               "RelativeToolTip": "Main.Infrastructure\\ConfigureServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T09:35:36.139Z",
+              "WhenOpened": "2025-11-17T09:35:36.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Api\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "Main.Api\\ConfigureServices.cs",
+              "ToolTip": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Api\\ConfigureServices.cs",
+              "RelativeToolTip": "Main.Api\\ConfigureServices.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T02:20:26.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Main.Domain.csproj",
+              "DocumentMoniker": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Domian\\Main.Domain.csproj",
+              "RelativeDocumentMoniker": "Main.Domian\\Main.Domain.csproj",
+              "ToolTip": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Domian\\Main.Domain.csproj",
+              "RelativeToolTip": "Main.Domian\\Main.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-19T09:28:05.802Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
+              "Title": "TestDeleteCommand.cs",
+              "DocumentMoniker": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Application\\TestTable\\Commands\\TestDeleteCommand.cs",
+              "RelativeDocumentMoniker": "Main.Application\\TestTable\\Commands\\TestDeleteCommand.cs",
+              "ToolTip": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Application\\TestTable\\Commands\\TestDeleteCommand.cs",
+              "RelativeToolTip": "Main.Application\\TestTable\\Commands\\TestDeleteCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T10:11:20.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Api\\appsettings.json",
               "RelativeDocumentMoniker": "Main.Api\\appsettings.json",
@@ -150,8 +214,19 @@
               "RelativeToolTip": "Main.Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-17T06:26:45.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T06:26:45.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Api\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Main.Api\\Controllers\\TestController.cs",
+              "ToolTip": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Api\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Main.Api\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T08:41:34.287Z"
             }
           ]
         }

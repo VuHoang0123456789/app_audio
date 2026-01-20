@@ -29,7 +29,9 @@ namespace Main.Infrastructure.Migrations
                 {
                     b.Property<Guid>("id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier");
+                        .HasColumnType("uniqueidentifier")
+                        .HasDefaultValueSql("newid()")
+                        .HasComment("Khóa chính của bảng, tự động tạo khi thêm mới");
 
                     b.Property<string>("ma")
                         .IsRequired()
@@ -37,16 +39,22 @@ namespace Main.Infrastructure.Migrations
                         .HasColumnType("nvarchar(32)");
 
                     b.Property<DateTime?>("ngay_chinh_sua")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("datetime2")
+                        .HasComment("Thời gian chỉnh sửa bản khi, được ghi nhận khi thêm mới hoặc mỗi lần cập nhật");
 
                     b.Property<DateTime?>("ngay_tao")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("datetime2")
+                        .HasComment("Thời gian tạo bản khi, được ghi nhận khi thêm mới");
 
                     b.Property<string>("nguoi_chinh_sua")
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(255)
+                        .HasColumnType("nvarchar(255)")
+                        .HasComment("Thông tin tài khoản người chỉnh sửa bản ghi, được ghi nhận khi thêm mới hoặc mỗi lần cập nhật");
 
                     b.Property<string>("nguoi_tao")
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(255)
+                        .HasColumnType("nvarchar(255)")
+                        .HasComment("Thông tin tài khoản người tạo bản khi, được ghi nhận khi thêm mới");
 
                     b.Property<string>("ten")
                         .IsRequired()
@@ -55,7 +63,7 @@ namespace Main.Infrastructure.Migrations
 
                     b.HasKey("id");
 
-                    b.ToTable("test_table");
+                    b.ToTable("test_table", "main");
                 });
 #pragma warning restore 612, 618
         }
