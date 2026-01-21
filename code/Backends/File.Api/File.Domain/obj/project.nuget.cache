@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "VEATch+S8OLV5WHPwzyy3lIBOEJVtwCYeJD3B1zso+e9v36itmkLj9NWhC2rX7niYXY/OYTXJsjEiSBpmxFFOg==",
+  "success": true,
+  "projectFilePath": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Domain\\File.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vuhuy\\.nuget\\packages\\eps.sharedkernel.domain\\1.0.0\\eps.sharedkernel.domain.1.0.0.nupkg.sha512",
+    "C:\\Users\\vuhuy\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\vuhuy\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\vuhuy\\.nuget\\packages\\nettopologysuite\\2.5.0\\nettopologysuite.2.5.0.nupkg.sha512",
+    "C:\\Users\\vuhuy\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "EHild6eGJhg=",
+  "dgSpecHash": "QbxSeoa3XgvnpiJxAC1OkKfID/401eC7VK8QgrhJpCrd//G1IH2Rlb4YBYNqieVgHuBpmU8PrZpXL+Odezmnaw==",
   "success": true,
-  "projectFilePath": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Domian\\Main.Domain.csproj",
+  "projectFilePath": "E:\\Code\\app_audio\\code\\Backends\\Main.Api\\Main.Domian\\Main.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\eps.sharedkernel.domain\\1.0.0\\eps.sharedkernel.domain.1.0.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\nettopologysuite\\2.5.0\\nettopologysuite.2.5.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+    "C:\\Users\\vuhuy\\.nuget\\packages\\eps.sharedkernel.domain\\1.0.0\\eps.sharedkernel.domain.1.0.0.nupkg.sha512",
+    "C:\\Users\\vuhuy\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\vuhuy\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\vuhuy\\.nuget\\packages\\nettopologysuite\\2.5.0\\nettopologysuite.2.5.0.nupkg.sha512",
+    "C:\\Users\\vuhuy\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
   ],
   "logs": []
 }
