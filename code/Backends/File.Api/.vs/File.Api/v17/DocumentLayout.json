@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\",
+  "WorkspaceRootPath": "D:\\app_audio\\code\\Backends\\File.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{784A9A8D-9198-43BD-9453-609F022BC2EE}|File.Api\\File.Api.csproj|e:\\code\\app_audio\\code\\backends\\file.api\\file.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{784A9A8D-9198-43BD-9453-609F022BC2EE}|File.Api\\File.Api.csproj|d:\\app_audio\\code\\backends\\file.api\\file.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{784A9A8D-9198-43BD-9453-609F022BC2EE}|File.Api\\File.Api.csproj|solutionrelative:file.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FE5710E-1D92-48BC-9AE4-4EA3E4342F46}|File.Application\\File.Application.csproj|e:\\code\\app_audio\\code\\backends\\file.api\\file.application\\testtable\\queries\\testtablegetbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FE5710E-1D92-48BC-9AE4-4EA3E4342F46}|File.Application\\File.Application.csproj|d:\\app_audio\\code\\backends\\file.api\\file.application\\testtable\\queries\\testtablegetbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FE5710E-1D92-48BC-9AE4-4EA3E4342F46}|File.Application\\File.Application.csproj|solutionrelative:file.application\\testtable\\queries\\testtablegetbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FE5710E-1D92-48BC-9AE4-4EA3E4342F46}|File.Application\\File.Application.csproj|e:\\code\\app_audio\\code\\backends\\file.api\\file.application\\testtable\\queries\\testtablegetallquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FE5710E-1D92-48BC-9AE4-4EA3E4342F46}|File.Application\\File.Application.csproj|d:\\app_audio\\code\\backends\\file.api\\file.application\\testtable\\queries\\testtablegetallquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FE5710E-1D92-48BC-9AE4-4EA3E4342F46}|File.Application\\File.Application.csproj|solutionrelative:file.application\\testtable\\queries\\testtablegetallquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FE5710E-1D92-48BC-9AE4-4EA3E4342F46}|File.Application\\File.Application.csproj|e:\\code\\app_audio\\code\\backends\\file.api\\file.application\\testtable\\commands\\testtabledeletecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FE5710E-1D92-48BC-9AE4-4EA3E4342F46}|File.Application\\File.Application.csproj|d:\\app_audio\\code\\backends\\file.api\\file.application\\testtable\\commands\\testtabledeletecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FE5710E-1D92-48BC-9AE4-4EA3E4342F46}|File.Application\\File.Application.csproj|solutionrelative:file.application\\testtable\\commands\\testtabledeletecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FE5710E-1D92-48BC-9AE4-4EA3E4342F46}|File.Application\\File.Application.csproj|e:\\code\\app_audio\\code\\backends\\file.api\\file.application\\testtable\\commands\\testtablecreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FE5710E-1D92-48BC-9AE4-4EA3E4342F46}|File.Application\\File.Application.csproj|d:\\app_audio\\code\\backends\\file.api\\file.application\\testtable\\commands\\testtablecreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FE5710E-1D92-48BC-9AE4-4EA3E4342F46}|File.Application\\File.Application.csproj|solutionrelative:file.application\\testtable\\commands\\testtablecreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FE5710E-1D92-48BC-9AE4-4EA3E4342F46}|File.Application\\File.Application.csproj|e:\\code\\app_audio\\code\\backends\\file.api\\file.application\\testtable\\commands\\testtableupdatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FE5710E-1D92-48BC-9AE4-4EA3E4342F46}|File.Application\\File.Application.csproj|d:\\app_audio\\code\\backends\\file.api\\file.application\\testtable\\commands\\testtableupdatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FE5710E-1D92-48BC-9AE4-4EA3E4342F46}|File.Application\\File.Application.csproj|solutionrelative:file.application\\testtable\\commands\\testtableupdatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{784A9A8D-9198-43BD-9453-609F022BC2EE}|File.Api\\File.Api.csproj|e:\\code\\app_audio\\code\\backends\\file.api\\file.api\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{784A9A8D-9198-43BD-9453-609F022BC2EE}|File.Api\\File.Api.csproj|d:\\app_audio\\code\\backends\\file.api\\file.api\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{784A9A8D-9198-43BD-9453-609F022BC2EE}|File.Api\\File.Api.csproj|solutionrelative:file.api\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9289A8B-8780-490D-AEF3-894372066D48}|File.Infrastructure\\File.Infrastructure.csproj|e:\\code\\app_audio\\code\\backends\\file.api\\file.infrastructure\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9289A8B-8780-490D-AEF3-894372066D48}|File.Infrastructure\\File.Infrastructure.csproj|d:\\app_audio\\code\\backends\\file.api\\file.infrastructure\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9289A8B-8780-490D-AEF3-894372066D48}|File.Infrastructure\\File.Infrastructure.csproj|solutionrelative:file.infrastructure\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FE5710E-1D92-48BC-9AE4-4EA3E4342F46}|File.Application\\File.Application.csproj|e:\\code\\app_audio\\code\\backends\\file.api\\file.application\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FE5710E-1D92-48BC-9AE4-4EA3E4342F46}|File.Application\\File.Application.csproj|d:\\app_audio\\code\\backends\\file.api\\file.application\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FE5710E-1D92-48BC-9AE4-4EA3E4342F46}|File.Application\\File.Application.csproj|solutionrelative:file.application\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{784A9A8D-9198-43BD-9453-609F022BC2EE}|File.Api\\File.Api.csproj|e:\\code\\app_audio\\code\\backends\\file.api\\file.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{784A9A8D-9198-43BD-9453-609F022BC2EE}|File.Api\\File.Api.csproj|d:\\app_audio\\code\\backends\\file.api\\file.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{784A9A8D-9198-43BD-9453-609F022BC2EE}|File.Api\\File.Api.csproj|solutionrelative:file.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,72 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 313,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TestController.cs",
-              "DocumentMoniker": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Api\\Controllers\\TestController.cs",
-              "RelativeDocumentMoniker": "File.Api\\Controllers\\TestController.cs",
-              "ToolTip": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Api\\Controllers\\TestController.cs",
-              "RelativeToolTip": "File.Api\\Controllers\\TestController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T15:16:44.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TestTableGetByIdQuery.cs",
-              "DocumentMoniker": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Application\\TestTable\\Queries\\TestTableGetByIdQuery.cs",
-              "RelativeDocumentMoniker": "File.Application\\TestTable\\Queries\\TestTableGetByIdQuery.cs",
-              "ToolTip": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Application\\TestTable\\Queries\\TestTableGetByIdQuery.cs",
-              "RelativeToolTip": "File.Application\\TestTable\\Queries\\TestTableGetByIdQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T15:12:56.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TestTableGetAllQuery.cs",
-              "DocumentMoniker": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Application\\TestTable\\Queries\\TestTableGetAllQuery.cs",
-              "RelativeDocumentMoniker": "File.Application\\TestTable\\Queries\\TestTableGetAllQuery.cs",
-              "ToolTip": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Application\\TestTable\\Queries\\TestTableGetAllQuery.cs",
-              "RelativeToolTip": "File.Application\\TestTable\\Queries\\TestTableGetAllQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T15:09:39.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TestTableDeleteCommand.cs",
-              "DocumentMoniker": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Application\\TestTable\\Commands\\TestTableDeleteCommand.cs",
-              "RelativeDocumentMoniker": "File.Application\\TestTable\\Commands\\TestTableDeleteCommand.cs",
-              "ToolTip": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Application\\TestTable\\Commands\\TestTableDeleteCommand.cs",
-              "RelativeToolTip": "File.Application\\TestTable\\Commands\\TestTableDeleteCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T15:06:59.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TestTableUpdateCommand.cs",
-              "DocumentMoniker": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Application\\TestTable\\Commands\\TestTableUpdateCommand.cs",
-              "RelativeDocumentMoniker": "File.Application\\TestTable\\Commands\\TestTableUpdateCommand.cs",
-              "ToolTip": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Application\\TestTable\\Commands\\TestTableUpdateCommand.cs",
-              "RelativeToolTip": "File.Application\\TestTable\\Commands\\TestTableUpdateCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T15:05:06.756Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
@@ -127,68 +66,124 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "D:\\app_audio\\code\\Backends\\File.Api\\File.Api\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "File.Api\\Controllers\\TestController.cs",
+              "ToolTip": "D:\\app_audio\\code\\Backends\\File.Api\\File.Api\\Controllers\\TestController.cs",
+              "RelativeToolTip": "File.Api\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T15:16:44.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestTableGetByIdQuery.cs",
+              "DocumentMoniker": "D:\\app_audio\\code\\Backends\\File.Api\\File.Application\\TestTable\\Queries\\TestTableGetByIdQuery.cs",
+              "RelativeDocumentMoniker": "File.Application\\TestTable\\Queries\\TestTableGetByIdQuery.cs",
+              "ToolTip": "D:\\app_audio\\code\\Backends\\File.Api\\File.Application\\TestTable\\Queries\\TestTableGetByIdQuery.cs",
+              "RelativeToolTip": "File.Application\\TestTable\\Queries\\TestTableGetByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T15:12:56.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestTableGetAllQuery.cs",
+              "DocumentMoniker": "D:\\app_audio\\code\\Backends\\File.Api\\File.Application\\TestTable\\Queries\\TestTableGetAllQuery.cs",
+              "RelativeDocumentMoniker": "File.Application\\TestTable\\Queries\\TestTableGetAllQuery.cs",
+              "ToolTip": "D:\\app_audio\\code\\Backends\\File.Api\\File.Application\\TestTable\\Queries\\TestTableGetAllQuery.cs",
+              "RelativeToolTip": "File.Application\\TestTable\\Queries\\TestTableGetAllQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T15:09:39.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestTableDeleteCommand.cs",
+              "DocumentMoniker": "D:\\app_audio\\code\\Backends\\File.Api\\File.Application\\TestTable\\Commands\\TestTableDeleteCommand.cs",
+              "RelativeDocumentMoniker": "File.Application\\TestTable\\Commands\\TestTableDeleteCommand.cs",
+              "ToolTip": "D:\\app_audio\\code\\Backends\\File.Api\\File.Application\\TestTable\\Commands\\TestTableDeleteCommand.cs",
+              "RelativeToolTip": "File.Application\\TestTable\\Commands\\TestTableDeleteCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T15:06:59.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestTableUpdateCommand.cs",
+              "DocumentMoniker": "D:\\app_audio\\code\\Backends\\File.Api\\File.Application\\TestTable\\Commands\\TestTableUpdateCommand.cs",
+              "RelativeDocumentMoniker": "File.Application\\TestTable\\Commands\\TestTableUpdateCommand.cs",
+              "ToolTip": "D:\\app_audio\\code\\Backends\\File.Api\\File.Application\\TestTable\\Commands\\TestTableUpdateCommand.cs",
+              "RelativeToolTip": "File.Application\\TestTable\\Commands\\TestTableUpdateCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T15:05:06.756Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "TestTableCreateCommand.cs",
-              "DocumentMoniker": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Application\\TestTable\\Commands\\TestTableCreateCommand.cs",
+              "DocumentMoniker": "D:\\app_audio\\code\\Backends\\File.Api\\File.Application\\TestTable\\Commands\\TestTableCreateCommand.cs",
               "RelativeDocumentMoniker": "File.Application\\TestTable\\Commands\\TestTableCreateCommand.cs",
-              "ToolTip": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Application\\TestTable\\Commands\\TestTableCreateCommand.cs",
+              "ToolTip": "D:\\app_audio\\code\\Backends\\File.Api\\File.Application\\TestTable\\Commands\\TestTableCreateCommand.cs",
               "RelativeToolTip": "File.Application\\TestTable\\Commands\\TestTableCreateCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T15:00:34.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T15:00:34.53Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Api\\Program.cs",
+              "DocumentMoniker": "D:\\app_audio\\code\\Backends\\File.Api\\File.Api\\Program.cs",
               "RelativeDocumentMoniker": "File.Api\\Program.cs",
-              "ToolTip": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Api\\Program.cs",
+              "ToolTip": "D:\\app_audio\\code\\Backends\\File.Api\\File.Api\\Program.cs",
               "RelativeToolTip": "File.Api\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T14:01:54.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T14:01:54.977Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ConfigurationServices.cs",
-              "DocumentMoniker": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Api\\ConfigurationServices.cs",
+              "DocumentMoniker": "D:\\app_audio\\code\\Backends\\File.Api\\File.Api\\ConfigurationServices.cs",
               "RelativeDocumentMoniker": "File.Api\\ConfigurationServices.cs",
-              "ToolTip": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Api\\ConfigurationServices.cs",
+              "ToolTip": "D:\\app_audio\\code\\Backends\\File.Api\\File.Api\\ConfigurationServices.cs",
               "RelativeToolTip": "File.Api\\ConfigurationServices.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T13:53:14.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T13:53:14.925Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ConfigurationServices.cs",
-              "DocumentMoniker": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Infrastructure\\ConfigurationServices.cs",
+              "DocumentMoniker": "D:\\app_audio\\code\\Backends\\File.Api\\File.Infrastructure\\ConfigurationServices.cs",
               "RelativeDocumentMoniker": "File.Infrastructure\\ConfigurationServices.cs",
-              "ToolTip": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Infrastructure\\ConfigurationServices.cs",
+              "ToolTip": "D:\\app_audio\\code\\Backends\\File.Api\\File.Infrastructure\\ConfigurationServices.cs",
               "RelativeToolTip": "File.Infrastructure\\ConfigurationServices.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T13:52:27.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T13:52:27.004Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "ConfigurationServices.cs",
-              "DocumentMoniker": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Application\\ConfigurationServices.cs",
+              "DocumentMoniker": "D:\\app_audio\\code\\Backends\\File.Api\\File.Application\\ConfigurationServices.cs",
               "RelativeDocumentMoniker": "File.Application\\ConfigurationServices.cs",
-              "ToolTip": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Application\\ConfigurationServices.cs",
+              "ToolTip": "D:\\app_audio\\code\\Backends\\File.Api\\File.Application\\ConfigurationServices.cs",
               "RelativeToolTip": "File.Application\\ConfigurationServices.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T13:52:02.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T13:52:02.603Z"
             }
           ]
         }

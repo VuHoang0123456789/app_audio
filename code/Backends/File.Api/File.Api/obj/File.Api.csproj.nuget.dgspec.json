@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Api\\File.Api.csproj": {}
+    "D:\\app_audio\\code\\Backends\\File.Api\\File.Api\\File.Api.csproj": {}
   },
   "projects": {
-    "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Api\\File.Api.csproj": {
+    "D:\\app_audio\\code\\Backends\\File.Api\\File.Api\\File.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Api\\File.Api.csproj",
+        "projectUniqueName": "D:\\app_audio\\code\\Backends\\File.Api\\File.Api\\File.Api.csproj",
         "projectName": "File.Api",
-        "projectPath": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Api\\File.Api.csproj",
-        "packagesPath": "C:\\Users\\vuhuy\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Api\\obj\\",
+        "projectPath": "D:\\app_audio\\code\\Backends\\File.Api\\File.Api\\File.Api.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\app_audio\\code\\Backends\\File.Api\\File.Api\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\vuhuy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Application\\File.Application.csproj": {
-                "projectPath": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Application\\File.Application.csproj"
+              "D:\\app_audio\\code\\Backends\\File.Api\\File.Application\\File.Application.csproj": {
+                "projectPath": "D:\\app_audio\\code\\Backends\\File.Api\\File.Application\\File.Application.csproj"
               },
-              "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Infrastructure\\File.Infrastructure.csproj": {
-                "projectPath": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Infrastructure\\File.Infrastructure.csproj"
+              "D:\\app_audio\\code\\Backends\\File.Api\\File.Infrastructure\\File.Infrastructure.csproj": {
+                "projectPath": "D:\\app_audio\\code\\Backends\\File.Api\\File.Infrastructure\\File.Infrastructure.csproj"
               }
             }
           }
@@ -46,7 +50,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -92,21 +97,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Application\\File.Application.csproj": {
+    "D:\\app_audio\\code\\Backends\\File.Api\\File.Application\\File.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Application\\File.Application.csproj",
+        "projectUniqueName": "D:\\app_audio\\code\\Backends\\File.Api\\File.Application\\File.Application.csproj",
         "projectName": "File.Application",
-        "projectPath": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Application\\File.Application.csproj",
-        "packagesPath": "C:\\Users\\vuhuy\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Application\\obj\\",
+        "projectPath": "D:\\app_audio\\code\\Backends\\File.Api\\File.Application\\File.Application.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\app_audio\\code\\Backends\\File.Api\\File.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\vuhuy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -120,8 +129,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Domain\\File.Domain.csproj": {
-                "projectPath": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Domain\\File.Domain.csproj"
+              "D:\\app_audio\\code\\Backends\\File.Api\\File.Domain\\File.Domain.csproj": {
+                "projectPath": "D:\\app_audio\\code\\Backends\\File.Api\\File.Domain\\File.Domain.csproj"
               }
             }
           }
@@ -135,7 +144,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -162,21 +172,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Domain\\File.Domain.csproj": {
+    "D:\\app_audio\\code\\Backends\\File.Api\\File.Domain\\File.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Domain\\File.Domain.csproj",
+        "projectUniqueName": "D:\\app_audio\\code\\Backends\\File.Api\\File.Domain\\File.Domain.csproj",
         "projectName": "File.Domain",
-        "projectPath": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Domain\\File.Domain.csproj",
-        "packagesPath": "C:\\Users\\vuhuy\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Domain\\obj\\",
+        "projectPath": "D:\\app_audio\\code\\Backends\\File.Api\\File.Domain\\File.Domain.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\app_audio\\code\\Backends\\File.Api\\File.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\vuhuy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -201,7 +215,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -228,21 +243,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Infrastructure\\File.Infrastructure.csproj": {
+    "D:\\app_audio\\code\\Backends\\File.Api\\File.Infrastructure\\File.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Infrastructure\\File.Infrastructure.csproj",
+        "projectUniqueName": "D:\\app_audio\\code\\Backends\\File.Api\\File.Infrastructure\\File.Infrastructure.csproj",
         "projectName": "File.Infrastructure",
-        "projectPath": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Infrastructure\\File.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\vuhuy\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Infrastructure\\obj\\",
+        "projectPath": "D:\\app_audio\\code\\Backends\\File.Api\\File.Infrastructure\\File.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\app_audio\\code\\Backends\\File.Api\\File.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\vuhuy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -256,8 +275,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Application\\File.Application.csproj": {
-                "projectPath": "E:\\Code\\app_audio\\code\\Backends\\File.Api\\File.Application\\File.Application.csproj"
+              "D:\\app_audio\\code\\Backends\\File.Api\\File.Application\\File.Application.csproj": {
+                "projectPath": "D:\\app_audio\\code\\Backends\\File.Api\\File.Application\\File.Application.csproj"
+              },
+              "D:\\app_audio\\code\\Backends\\File.Api\\File.Domain\\File.Domain.csproj": {
+                "projectPath": "D:\\app_audio\\code\\Backends\\File.Api\\File.Domain\\File.Domain.csproj"
               }
             }
           }
@@ -271,7 +293,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -298,7 +321,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
