@@ -15,10 +15,7 @@ try
     services.AddMainServices(builder.Configuration);
     #endregion
 
-    //clear logging providers default
     builder.Logging.ClearProviders();
-
-    //use NLog is logging providers
     builder.Host.UseNLog();
 
     var app = builder.Build();
@@ -37,7 +34,7 @@ try
         app.UseSwaggerUI();
     }
 
-    app.UseHttpsRedirection();
+    //app.UseHttpsRedirection();
 
     app.UseCors();
 
