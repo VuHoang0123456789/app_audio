@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\app_audio\\code\\Backends\\Main.Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|d:\\app_audio\\code\\backends\\main.api\\main.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|solutionrelative:main.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|d:\\app_audio\\code\\backends\\main.api\\main.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|solutionrelative:main.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|d:\\app_audio\\code\\backends\\main.api\\main.api\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|solutionrelative:main.api\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|d:\\app_audio\\code\\backends\\main.api\\main.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{344630D6-BB6B-4FB0-A2C6-932E06AE8672}|Main.Api\\Main.Api.csproj|solutionrelative:main.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72372E53-DA1D-4CBB-8AEB-56F644CB186D}|Main.Infrastructure\\Main.Infrastructure.csproj|d:\\app_audio\\code\\backends\\main.api\\main.infrastructure\\data\\maindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Api\\appsettings.json",
               "RelativeDocumentMoniker": "Main.Api\\appsettings.json",
@@ -99,19 +99,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Api\\Program.cs",
               "RelativeDocumentMoniker": "Main.Api\\Program.cs",
               "ToolTip": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Api\\Program.cs",
               "RelativeToolTip": "Main.Api\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T03:25:46.292Z"
+              "WhenOpened": "2026-01-22T03:25:46.292Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ConfigureServices.cs",
               "DocumentMoniker": "D:\\app_audio\\code\\Backends\\Main.Api\\Main.Api\\ConfigureServices.cs",
               "RelativeDocumentMoniker": "Main.Api\\ConfigureServices.cs",
@@ -119,8 +120,7 @@
               "RelativeToolTip": "Main.Api\\ConfigureServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T14:52:54.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T14:52:54.26Z"
             },
             {
               "$type": "Document",

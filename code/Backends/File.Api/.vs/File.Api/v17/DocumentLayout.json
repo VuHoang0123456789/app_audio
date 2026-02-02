@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\app_audio\\code\\Backends\\File.Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{784A9A8D-9198-43BD-9453-609F022BC2EE}|File.Api\\File.Api.csproj|d:\\app_audio\\code\\backends\\file.api\\file.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784A9A8D-9198-43BD-9453-609F022BC2EE}|File.Api\\File.Api.csproj|solutionrelative:file.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{784A9A8D-9198-43BD-9453-609F022BC2EE}|File.Api\\File.Api.csproj|d:\\app_audio\\code\\backends\\file.api\\file.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{784A9A8D-9198-43BD-9453-609F022BC2EE}|File.Api\\File.Api.csproj|solutionrelative:file.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5FE5710E-1D92-48BC-9AE4-4EA3E4342F46}|File.Application\\File.Application.csproj|d:\\app_audio\\code\\backends\\file.api\\file.application\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FE5710E-1D92-48BC-9AE4-4EA3E4342F46}|File.Application\\File.Application.csproj|solutionrelative:file.application\\configurationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{784A9A8D-9198-43BD-9453-609F022BC2EE}|File.Api\\File.Api.csproj|d:\\app_audio\\code\\backends\\file.api\\file.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{784A9A8D-9198-43BD-9453-609F022BC2EE}|File.Api\\File.Api.csproj|solutionrelative:file.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 313,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,20 +66,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TestController.cs",
               "DocumentMoniker": "D:\\app_audio\\code\\Backends\\File.Api\\File.Api\\Controllers\\TestController.cs",
               "RelativeDocumentMoniker": "File.Api\\Controllers\\TestController.cs",
               "ToolTip": "D:\\app_audio\\code\\Backends\\File.Api\\File.Api\\Controllers\\TestController.cs",
               "RelativeToolTip": "File.Api\\Controllers\\TestController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T15:16:44.724Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TestTableGetByIdQuery.cs",
               "DocumentMoniker": "D:\\app_audio\\code\\Backends\\File.Api\\File.Application\\TestTable\\Queries\\TestTableGetByIdQuery.cs",
               "RelativeDocumentMoniker": "File.Application\\TestTable\\Queries\\TestTableGetByIdQuery.cs",
@@ -91,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TestTableGetAllQuery.cs",
               "DocumentMoniker": "D:\\app_audio\\code\\Backends\\File.Api\\File.Application\\TestTable\\Queries\\TestTableGetAllQuery.cs",
               "RelativeDocumentMoniker": "File.Application\\TestTable\\Queries\\TestTableGetAllQuery.cs",
@@ -103,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TestTableDeleteCommand.cs",
               "DocumentMoniker": "D:\\app_audio\\code\\Backends\\File.Api\\File.Application\\TestTable\\Commands\\TestTableDeleteCommand.cs",
               "RelativeDocumentMoniker": "File.Application\\TestTable\\Commands\\TestTableDeleteCommand.cs",
@@ -115,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TestTableUpdateCommand.cs",
               "DocumentMoniker": "D:\\app_audio\\code\\Backends\\File.Api\\File.Application\\TestTable\\Commands\\TestTableUpdateCommand.cs",
               "RelativeDocumentMoniker": "File.Application\\TestTable\\Commands\\TestTableUpdateCommand.cs",
@@ -127,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TestTableCreateCommand.cs",
               "DocumentMoniker": "D:\\app_audio\\code\\Backends\\File.Api\\File.Application\\TestTable\\Commands\\TestTableCreateCommand.cs",
               "RelativeDocumentMoniker": "File.Application\\TestTable\\Commands\\TestTableCreateCommand.cs",
@@ -139,19 +139,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\app_audio\\code\\Backends\\File.Api\\File.Api\\Program.cs",
               "RelativeDocumentMoniker": "File.Api\\Program.cs",
               "ToolTip": "D:\\app_audio\\code\\Backends\\File.Api\\File.Api\\Program.cs",
               "RelativeToolTip": "File.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T14:01:54.977Z"
+              "WhenOpened": "2026-01-21T14:01:54.977Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ConfigurationServices.cs",
               "DocumentMoniker": "D:\\app_audio\\code\\Backends\\File.Api\\File.Api\\ConfigurationServices.cs",
               "RelativeDocumentMoniker": "File.Api\\ConfigurationServices.cs",
@@ -163,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ConfigurationServices.cs",
               "DocumentMoniker": "D:\\app_audio\\code\\Backends\\File.Api\\File.Infrastructure\\ConfigurationServices.cs",
               "RelativeDocumentMoniker": "File.Infrastructure\\ConfigurationServices.cs",
@@ -175,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ConfigurationServices.cs",
               "DocumentMoniker": "D:\\app_audio\\code\\Backends\\File.Api\\File.Application\\ConfigurationServices.cs",
               "RelativeDocumentMoniker": "File.Application\\ConfigurationServices.cs",

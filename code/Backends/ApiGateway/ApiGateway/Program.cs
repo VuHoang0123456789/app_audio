@@ -11,6 +11,7 @@ try
     // Add services to the container.
     var services = builder.Services;
     services.AddApiGatewayServices(builder.Configuration);
+    services.AddAuthenticationServices(builder.Configuration);
 
     builder.Logging.ClearProviders();
     builder.Host.UseNLog();
@@ -19,12 +20,10 @@ try
     var app = builder.Build();
 
     // Configure the HTTP request pipeline.
-    if (app.Environment.IsDevelopment() && app.Environment.IsStaging())
+    if (app.Environment.IsDevelopment() || app.Environment.IsStaging())
     {
-        //app.UseSwagger();
-        //app.UseSwaggerUI();
+        app.UseSwaggerForOcelotUI();
     }
-    app.UseSwaggerForOcelotUI();
     //app.UseHttpsRedirection();
     app.UseCors();
     app.UseAuthentication();
