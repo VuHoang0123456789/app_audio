@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using ApiGateway.Entities;
+using Microsoft.EntityFrameworkCore;
 using System.Reflection;
 
 namespace ApiGateway.Data;
@@ -10,6 +11,8 @@ public class IdentityContext : DbContext
 
     }
 
+    public DbSet<Client> clients { get; set; }
+    public DbSet<ClientSecret> ClientSecret { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

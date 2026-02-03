@@ -1,19 +1,25 @@
 {
   "Routes": [
     {
-      "DownstreamPathTemplate": "/api/nguoi-dung/{everything}",
+      "DownstreamPathTemplate": "/api/{everything}",
+      "SwaggerKey": "admin",
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 5001
+          "Port": 8001
         }
       ],
-      "UpstreamPathTemplate": "/gateway/nguoi-dung/{everything}",
-      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ]
+      "UpstreamPathTemplate": "/api/main/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      },
+      "DangerousAcceptAnyServerCertificateValidator": true
     }
   ],
   "GlobalConfiguration": {
-    "BaseUrl": "https://localhost:7000"
+    "BaseUrl": "http://localhost:8000"
   }
 }

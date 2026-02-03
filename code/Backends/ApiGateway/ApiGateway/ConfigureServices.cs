@@ -59,8 +59,7 @@ public static class ConfigureServices
         {
             builder.UseSqlServer(connectStringStr);
         });
-        //services.AddEndpointsApiExplorer();
-        //services.AddSwaggerGen();
+
         services.AddCors(builder =>
         {
             builder.AddDefaultPolicy(options =>
@@ -74,7 +73,7 @@ public static class ConfigureServices
         IConfiguration configurationOcelot = new ConfigurationBuilder()
             .AddJsonFile("ocelot.json")
             .AddJsonFile("ocelot.swagger.json")
-            .Build();  
+            .Build();
 
         services.AddOcelot(configurationOcelot);
         services.AddSwaggerForOcelot(configurationOcelot);
