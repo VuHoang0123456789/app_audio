@@ -300,10 +300,10 @@ D:\app_audio\code\Backends\Main.Api\Main.Api\obj\Debug\net8.0\staticwebassets\ms
 D:\app_audio\code\Backends\Main.Api\Main.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Main.Api.props
 D:\app_audio\code\Backends\Main.Api\Main.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Main.Api.props
 D:\app_audio\code\Backends\Main.Api\Main.Api\obj\Debug\net8.0\staticwebassets.pack.json
-D:\app_audio\code\Backends\Main.Api\Main.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\app_audio\code\Backends\Main.Api\Main.Api\obj\Debug\net8.0\Main.Api.csproj.Up2Date
 D:\app_audio\code\Backends\Main.Api\Main.Api\obj\Debug\net8.0\Main.Api.dll
 D:\app_audio\code\Backends\Main.Api\Main.Api\obj\Debug\net8.0\refint\Main.Api.dll
 D:\app_audio\code\Backends\Main.Api\Main.Api\obj\Debug\net8.0\Main.Api.pdb
 D:\app_audio\code\Backends\Main.Api\Main.Api\obj\Debug\net8.0\Main.Api.genruntimeconfig.cache
 D:\app_audio\code\Backends\Main.Api\Main.Api\obj\Debug\net8.0\ref\Main.Api.dll
+D:\app_audio\code\Backends\Main.Api\Main.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

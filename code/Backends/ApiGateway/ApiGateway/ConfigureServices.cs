@@ -77,6 +77,7 @@ public static class ConfigureServices
 
         services.AddOcelot(configurationOcelot);
         services.AddSwaggerForOcelot(configurationOcelot);
+        services.AddEndpointsApiExplorer();
 
         return services;
     }

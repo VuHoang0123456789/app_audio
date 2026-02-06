@@ -25,11 +25,12 @@ try
     var app = builder.Build();
 
     // Configure the HTTP request pipeline.
-    if (app.Environment.IsDevelopment() || app.Environment.IsStaging())
-    {
-        app.UseSwaggerForOcelotUI();
-    }
-    //app.UseHttpsRedirection();
+    //if (app.Environment.IsDevelopment() || app.Environment.IsStaging())
+    //{
+    //    app.UseSwaggerForOcelotUI();
+    //}
+    app.UseSwaggerForOcelotUI();
+
     app.UseCors();
     app.UseAuthentication();
     app.UseAuthorization();

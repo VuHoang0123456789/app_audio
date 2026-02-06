@@ -12,6 +12,9 @@ try
     IServiceCollection services = builder.Services;
     services.AddAddminApiServices(builder.Configuration);
 
+    builder.Logging.ClearProviders();
+    builder.Host.UseNLog();
+
     var app = builder.Build();
 
     using (var scoped = app.Services.CreateScope())
@@ -21,11 +24,13 @@ try
         await adminDbContext.SeedAsync();
     }
 
-    if (app.Environment.IsDevelopment() || app.Environment.IsStaging())
-    {
-        app.UseSwagger();
-        app.UseSwaggerUI();
-    }
+    //if (app.Environment.IsDevelopment() || app.Environment.IsStaging())
+    //{
+    //    app.UseSwagger();
+    //    app.UseSwaggerUI();
+    //}
+    app.UseSwagger();
+    app.UseSwaggerUI();
 
     app.UseHttpsRedirection();
 
