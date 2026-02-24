@@ -8,7 +8,7 @@ try
     var builder = WebApplication.CreateBuilder(args);
     var services = builder.Services;
     #region add DI
-    services.AddIdentityServerServices();
+    services.AddIdentityServerServices(builder.Configuration);
     #endregion
 
     // NLog: Setup NLog for Dependency injection
@@ -27,11 +27,8 @@ try
 
     //app.UseHttpsRedirection();
     app.UseStaticFiles();
-
     app.UseRouting();
-
     app.UseAuthorization();
-
     app.MapControllerRoute(
         name: "default",
         pattern: "{controller=Home}/{action=Index}/{id?}");

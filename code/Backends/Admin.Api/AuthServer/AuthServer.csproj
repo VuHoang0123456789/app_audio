@@ -7,6 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Duende.IdentityServer" Version="6.1.8" />
+    <PackageReference Include="Duende.IdentityServer.EntityFramework" Version="6.1.5" />
     <PackageReference Include="EPS.SharedKernel.Api" Version="2.0.5" />
     <PackageReference Include="Microsoft.AspNetCore.DataProtection.EntityFrameworkCore" Version="6.0.18" />
   </ItemGroup>
