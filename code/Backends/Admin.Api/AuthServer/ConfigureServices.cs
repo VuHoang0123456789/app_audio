@@ -1,6 +1,11 @@
-﻿using Microsoft.AspNetCore.DataProtection;
+﻿using AuthServer.IdentityServer.CussomIdentityServer;
+using Duende.IdentityServer.EntityFramework.Services;
+using Duende.IdentityServer.Services;
+using MediatR;
+using Microsoft.AspNetCore.DataProtection;
 using Microsoft.EntityFrameworkCore;
 using SharedKernel.Api;
+using System.Reflection;
 
 namespace AuthServer;
 
@@ -8,6 +13,11 @@ public static class ConfigureServices
 {
     public static IServiceCollection AddIdentityServerServices(this IServiceCollection services, IConfiguration configuration)
     {
+        // Add services to the container.
+        services.AddControllersWithViews();
+        services.AddSharedKernelApiServices();
+        services.AddMediatR(Assembly.GetExecutingAssembly());
+
         //add services DataProtection
         string connectionStr = configuration.GetConnectionString("Default");
         services.AddDbContext<DataProtectionKeysContext>(options =>
@@ -45,11 +55,15 @@ public static class ConfigureServices
                 options.EnableTokenCleanup = true;
                 options.RemoveConsumedTokens = true;
             })
-            .AddServerSideSessions();
+            .AddServerSideSessions()
+            .AddCustomUserStore();
 
-        // Add services to the container.
-        services.AddControllersWithViews();
-        services.AddSharedKernelApiServices();
+
+        //var authBuilder = services.AddAuthentication();
+        //services.Configure<SSOConfig>(configuration.GetSection("SSO"));
+        //var sso = configuration.GetSection("SSO").Get<SSOConfig>();
+
+        services.AddScoped<ICorsPolicyService, CorsPolicyService>();
         return services;
     }
 }

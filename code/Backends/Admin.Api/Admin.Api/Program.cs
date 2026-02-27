@@ -34,8 +34,6 @@ try
 
     app.UseHttpsRedirection();
 
-    app.UseAuthorization();
-
     app.MapControllers(); 
 
     app.Run();
@@ -44,5 +42,9 @@ catch(Exception ex)
 {
     logger.Error(ex, "topped program because of exception");
     throw;
+}
+finally
+{
+    NLog.LogManager.Shutdown();
 }
 

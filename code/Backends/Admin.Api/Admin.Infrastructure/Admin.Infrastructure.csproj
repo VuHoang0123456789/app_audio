@@ -13,6 +13,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Duende.IdentityServer" Version="6.1.8" />
+    <PackageReference Include="Duende.IdentityServer.EntityFramework" Version="6.1.5" />
     <PackageReference Include="EPS.SharedKernel.Infrastructure" Version="2.0.5" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.10">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
