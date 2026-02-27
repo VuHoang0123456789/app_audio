@@ -1,4 +1,5 @@
 using AuthServer;
+using Microsoft.AspNetCore.HttpOverrides;
 using NLog;
 using NLog.Web;
 
@@ -23,6 +24,14 @@ try
         app.UseExceptionHandler("/Home/Error");
         // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
         app.UseHsts();
+
+        var forwardedHeaderOptions = new ForwardedHeadersOptions
+        {
+            ForwardedHeaders = ForwardedHeaders.XForwardedFor | ForwardedHeaders.XForwardedProto
+        };
+        forwardedHeaderOptions.KnownNetworks.Clear();
+        forwardedHeaderOptions.KnownProxies.Clear();
+        app.UseForwardedHeaders(forwardedHeaderOptions);
     }
 
     //app.UseHttpsRedirection();
