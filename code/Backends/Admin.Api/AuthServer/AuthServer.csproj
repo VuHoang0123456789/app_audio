@@ -26,8 +26,4 @@
 		<ProjectReference Include="..\Admin.Infrastructure\Admin.Infrastructure.csproj" />
 	</ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="IdentityServer\Account\" />
-  </ItemGroup>
-
 </Project>

@@ -2,7 +2,7 @@ using AuthServer.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace AuthServer.Controllers
+namespace AuthServer.IdentityServer.Account
 {
     public class HomeController : Controller
     {
