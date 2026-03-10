@@ -7,18 +7,20 @@
     padding: 120px 0;
 }
 
-    .box-container::before,
-    .box-container::after {
-        content: "";
-        position: absolute;
-        width: 400px;
-        height: 400px;
-        background-color: #e0bf94; /* màu be */
-        border-radius: 50%;
-        z-index: 0;
-    }
+.box-container::before,
+.box-container::after,
+.corner-top,
+.corner-bottom{
+    content: "";
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    background-color: #e0bf94;
+    border-radius: 50%;
+    z-index: 0;
+}
 
-/* góc trên trái */
+/* góc trên trá */
 .box-container::before {
     top: -150px;
     left: -150px;
@@ -28,6 +30,23 @@
 .box-container::after {
     bottom: -150px;
     right: -150px;
+}
+
+.corner-top,
+.corner-bottom {
+    position: absolute;
+    width: 160px;
+    height: 160px;
+}
+
+.corner-top{
+    top: -70px;
+    left: -70px;
+}
+
+.corner-bottom{
+    bottom: -38px;
+    right: -95px;
 }
 
 .form-container {
@@ -40,15 +59,24 @@
     border-radius: 12px;
     padding: 6px;
     border: 1px solid rgba(255,255,255,0.6);
-    box-shadow: 0 10px 30px rgba(0,0,0,0.08),
-    0 2px 6px rgba(0,0,0,0.05);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.08), 0 2px 6px rgba(0,0,0,0.05);
 }
 .form-box {
+    position: relative;
     width: 100%;
+    overflow: hidden;
     background-color: #e9e9ec;
     border-radius: 12px;
-    padding: 30px 40px 50px 40px;
+    padding: 30px 50px 50px 50px;
 }
+
+.form-box input {
+    padding: 10px 16px;
+    border-radius: 10px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.08);
+    border: 1px solid #e0e0e0;
+}
+
 .sc-7{
     display: flex;
     align-items: center;
@@ -64,6 +92,44 @@
     margin-bottom: 10px
 }
 
+.ml-5{
+    margin-left: 5px;
+}
+
 .bor-radius-4{
     border-radius: 4px;
+}
+
+.img-icon{
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+}
+ 
+.btn {
+    width: 100%;
+    max-width: 500px;
+    padding: 8px 22%;
+    display: flex;
+    align-items: center;
+    background: #f7f7f8;
+    border-radius: 10px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.08);
+    border: 1px solid #e0e0e0;
+    transition: all 0.2s ease;
+}
+
+.btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 14px rgba(0,0,0,0.12);
+}
+
+.btn-sign {
+    color: white !important;
+    font-weight: 500;
+    background: linear-gradient(180deg, #f7b733, #f5a623);
+}
+
+.flex{
+    display: flex;
 }
