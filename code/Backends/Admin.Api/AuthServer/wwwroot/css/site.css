@@ -17,6 +17,11 @@ html {
   min-height: 100%;
 }
 
-body {
-  margin-bottom: 60px;
+/*body {
+   height: 100vh;
+}*/
+
+.container-css{
+    padding: 0;
+    max-width: 100vw;
 }
