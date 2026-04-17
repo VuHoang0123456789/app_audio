@@ -1,4 +1,4 @@
-using AuthServer.Models;
+﻿using AuthServer.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -26,7 +26,16 @@ namespace AuthServer.IdentityServer.Account
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            var vm = new ErrorViewModel();
+            vm.Error = new Duende.IdentityServer.Models.ErrorMessage
+            {
+                Error = "403",
+                ErrorDescription = "Tài khoản của bạn không có quyền truy cập. Vui lòng liên hệ quản trị"
+            };
+
+            vm.urlReturn = "/login";
+
+            return View(vm);
         }
     }
 }

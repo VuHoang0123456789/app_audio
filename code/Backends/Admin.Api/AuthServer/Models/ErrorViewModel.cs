@@ -1,9 +1,18 @@
-namespace AuthServer.Models
-{
-    public class ErrorViewModel
-    {
-        public string? RequestId { get; set; }
+using Duende.IdentityServer.Models;
 
-        public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
+namespace AuthServer.Models;
+
+public class ErrorViewModel
+{
+    public ErrorViewModel()
+    {
     }
+
+    public ErrorViewModel(string error)
+    {
+        Error = new ErrorMessage { Error = error };
+    }
+
+    public ErrorMessage Error { get; set; }
+    public string urlReturn { get; set; }
 }
