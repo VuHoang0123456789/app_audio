@@ -18,7 +18,7 @@ public class nguoi_dung : BaseEntity
     public DateTime? last_login_at { get; set; }
 
     //trạng thái
-    public trang_thai_nguoi_dung trang_thai { get; set; } = trang_thai_nguoi_dung.Active;
+    public trang_thai_nguoi_dung? trang_thai { get; set; } = trang_thai_nguoi_dung.Active;
 
     //otp
     public bool? two_factor_enabled { get; set; }
