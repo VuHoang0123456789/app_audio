@@ -1,6 +1,6 @@
 ﻿using SharedKernel.Domain.Entities;
 
-namespace Admin.Domain;
+namespace Admin.Domain.Entities;
 
 public class lich_su_thay_doi_mat_khau
 {

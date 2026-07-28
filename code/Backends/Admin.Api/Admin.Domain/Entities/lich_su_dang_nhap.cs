@@ -1,7 +1,7 @@
 ﻿using SharedKernel.Domain.Entities;
 using System.Net;
 
-namespace Admin.Domain;
+namespace Admin.Domain.Entities;
 
 public class lich_su_dang_nhap
 {

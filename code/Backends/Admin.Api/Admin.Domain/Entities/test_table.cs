@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Admin.Domain;
+namespace Admin.Domain.Entities;
 
 public class test_table : BaseAuditableEntity
 {

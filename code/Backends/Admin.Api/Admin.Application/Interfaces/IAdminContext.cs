@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Admin.Domain.Entities;
+using Microsoft.EntityFrameworkCore;
 using SharedKernel.Application.Interfaces;
 using System;
 using System.Collections.Generic;

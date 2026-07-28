@@ -1,4 +1,4 @@
-﻿using Admin.Domain;
+﻿using Admin.Domain.Entities;
 using AutoMapper;
 using SharedKernel.Application.DTO;
 using System;

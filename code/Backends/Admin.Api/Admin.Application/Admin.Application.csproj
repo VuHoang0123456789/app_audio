@@ -13,4 +13,8 @@
 	<ItemGroup>
 		<ProjectReference Include="..\Admin.Domain\Admin.Domain.csproj" />
 	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="SystemLog\Queries\" />
+	</ItemGroup>
 </Project>

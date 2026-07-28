@@ -1,7 +1,7 @@
 ﻿using Admin.Domain.Enums;
 using SharedKernel.Domain.Entities;
 
-namespace Admin.Domain;
+namespace Admin.Domain.Entities;
 
 public class tai_khoan : BaseEntity
 {

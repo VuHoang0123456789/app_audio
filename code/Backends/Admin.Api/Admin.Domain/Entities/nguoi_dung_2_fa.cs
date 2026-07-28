@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Admin.Domain;
+namespace Admin.Domain.Entities;
 
 public class nguoi_dung_2_fa : BaseEntity
 {

@@ -1,4 +1,4 @@
-﻿using Admin.Domain;
+﻿using Admin.Domain.Entities;
 using Admin.Domain.Interfaces;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.EntityFrameworkCore;
