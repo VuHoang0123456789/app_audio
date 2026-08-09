@@ -15,4 +15,6 @@ public class ErrorViewModel
 
     public ErrorMessage Error { get; set; }
     public string urlReturn { get; set; }
+    public Guid RequestId { get; set; }
+    public bool ShowRequestId {  get; set; }
 }

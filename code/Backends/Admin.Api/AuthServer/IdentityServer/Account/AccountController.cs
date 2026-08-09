@@ -41,7 +41,7 @@ namespace AuthServer.IdentityServer.Account
             LoginViewModel vm = new LoginViewModel();
             var context = await _interaction.GetAuthorizationContextAsync(returnUrl);
 
-            if (context.IdP != null && await _schemeProvider.GetSchemeAsync(context.IdP) != null)
+            if (context != null && context.IdP != null && await _schemeProvider.GetSchemeAsync(context.IdP) != null)
             {
                 var local = context.IdP == Duende.IdentityServer.IdentityServerConstants.LocalIdentityProvider;
 

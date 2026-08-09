@@ -4,7 +4,7 @@
 
 <div class="box-container">
     <div class="form-container">
-        <form class="form-box">
+        <form class="form-box" action="/account/login" method="post">
             <div class="corner-top"></div>
             <div class="corner-bottom"></div>
             <div class="flex justify-content-center" style="align-items: center; margin-bottom: 12px;">
@@ -13,8 +13,8 @@
             </div>
             <h2 class="flex justify-content-center">Sign In</h2>
             <p class="flex justify-content-center">Enter your email and password to continue</p>
-            <input class="w-100 mb-10 bor-radius-4" placeholder="Email Address" />
-            <input class="w-100 mb-10 bor-radius-4" placeholder="Password" />
+            <input class="w-100 mb-10 bor-radius-4" name="Username" placeholder="Email Address" />
+            <input class="w-100 mb-10 bor-radius-4" name="Password" placeholder="Password" />
             <button class="btn w-100 bor-radius-4 justify-content-center btn-sign">Sign In</button>
             <div class="sc-7">
                 <hr class="line" /> <span class="mg-5">or continue with:</span><hr class="line" />
