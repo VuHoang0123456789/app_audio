@@ -11,21 +11,25 @@ using AutoMapper;
 
 namespace Admin.Application.SystemLog.Commands;
 
-public record SystemLogCreateCommand : CreateCommand<SystemLogDto>, IRequest<bool>
+public record SystemLogCreateCommand : CreateCommand<SystemLogDto>, IRequest<SystemLogDto>
 {
 }
 
-public class SystemLogCreateCommandHandler : CreateCommandHanlder<IAdminContext, audit_logs>, IRequestHandler<SystemLogCreateCommand, bool>
+public class SystemLogCreateCommandHandler : CreateCommandHanlder<IAdminContext, audit_logs>, IRequestHandler<SystemLogCreateCommand, SystemLogDto>
 {
-    public SystemLogCreateCommandHandler(IAdminContext context, IMapper mapper, IMediator mediator)
-        : base(context, mapper, mediator)
+    public SystemLogCreateCommandHandler(IAdminContext context, IMapper mapper, IMediator mediator) : base(context, mapper, mediator)
     {
     }
 
-    public async Task<bool> Handle(SystemLogCreateCommand request, CancellationToken cancellationToken)
+    public  async Task<SystemLogDto> Handle(SystemLogCreateCommand request, CancellationToken cancellationToken)
     {
-        // call the generic create handler on the base class and return a bool result
-        var dto = await base.Handle<SystemLogDto>(request, cancellationToken);
-        return dto != null;
+        return await Handle<SystemLogDto>(request, cancellationToken);
+    }
+
+    protected override audit_logs MapToEntity<Dto>(Dto dto)
+    {
+        var entity = base.MapToEntity(dto);
+        entity.id = Guid.NewGuid();
+        return entity;
     }
 }
